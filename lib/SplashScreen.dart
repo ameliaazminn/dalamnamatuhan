@@ -57,7 +57,7 @@ class _SplashScreenState extends State<SplashScreen> {
                             Spacer(
                               flex: 4,
                             ),
-                            Text('bismillah dalam nama Tuhan bisa'),
+                            Text('semoga bisa ya'),
                             Spacer(),
                           ])
                     ],
